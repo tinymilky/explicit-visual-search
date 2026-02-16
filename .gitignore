@@ -1,0 +1,26 @@
+**__pycache__**
+**logs**
+**.pyc**
+**results**
+**playground**
+*.nii
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.npz
+*.nii.gz
+*.json
+*.jsonl
+*.pt
+*.mp4
+*.zip
+*.tar.gz
+# *.sh
+*.pdf
+000*.txt
+**.csv**
+**.vscode**
+**egg-info**
+*.DS_Store
+*hpc2_key_temp.txt
